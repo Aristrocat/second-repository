@@ -1,4 +1,7 @@
 # second-repository
+
 This is my second repository.
 <br>
-Author- Palash Patel
+Author- Palash Patel (CG)
+
+
