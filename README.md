@@ -2,6 +2,6 @@
 
 This is my second repository.
 <br>
-Author- Palash Patel (CG)
+ Author- Palash Patel (CG)
 
 
